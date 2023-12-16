@@ -1,0 +1,58 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "computer",
+      "price": 5600,
+      "checked": true
+    },
+    {
+      "id": 2,
+      "name": "phone 13",
+      "price": 3000,
+      "checked": false
+    },
+    {
+      "id": 3,
+      "name": "printer",
+      "price": 600,
+      "checked": false
+    },
+    {
+      "name": "toto",
+      "price": "567",
+      "checked": true,
+      "id": 4
+    },
+    {
+      "name": "hjkj",
+      "price": "hjk",
+      "checked": false,
+      "id": 5
+    },
+    {
+      "name": "a",
+      "price": "100",
+      "checked": true,
+      "id": 6
+    },
+    {
+      "name": "a",
+      "price": "100",
+      "checked": true,
+      "id": 7
+    },
+    {
+      "name": "a",
+      "price": "100",
+      "checked": true,
+      "id": 8
+    },
+    {
+      "name": "q",
+      "price": "12",
+      "checked": true,
+      "id": 9
+    }
+  ]
+}
